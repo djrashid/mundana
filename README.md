@@ -1,2 +1,2 @@
 # mundana
-visit https://github.com/djrashid/mundana.git
+visit https://djrashid.github.io/mundana/
